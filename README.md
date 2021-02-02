@@ -16,7 +16,7 @@
 ---
 
 ## Things I've done today
-- [x] Went through the Dart Programming Language from Official Documentation and used [DartPad](https://dartpad.dev/) as a tool
-- [x] Flutter uses Dart as its programming language. A tour of the Dart language is handy in this case. [Language Tour](https://dart.dev/guides/language/language-tour)
-- [x] I had already installed the Flutter environment on my system. So, I skipped [this](https://flutter.dev/docs/get-started/install) step and moved ahead.
-- [x] Created the First Project on Day 1 and modified the default counter app. 
+-  Went through the Dart Programming Language from Official Documentation and used [DartPad](https://dartpad.dev/) as a tool
+-  Flutter uses Dart as its programming language. A tour of the Dart language is handy in this case. [Language Tour](https://dart.dev/guides/language/language-tour)
+-  I had already installed the Flutter environment on my system. So, I skipped [this](https://flutter.dev/docs/get-started/install) step and moved ahead.
+-  Created the First Project on Day 1 and modified the default counter app. 
