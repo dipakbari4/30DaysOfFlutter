@@ -33,5 +33,8 @@
 
 -  I thought to create more complex than the previous one but kept patience 😁 and created the Second Project on Day 2 and modified the default counter app [Very simple].
 
+- Now, in this time I've used the local development environment only. But, it can be done on online also. Use [DartPad](https://dartpad.dev/) or [CodePen](http://codepen.io/) both are awesome online tools.
+  
 - I used the `Snackbar` widget too when the counter gets `value to 0`. Faced some difficulties because I was using it without `Scaffold` as its ancestor.
 - I got this error while code `Scaffold.of() called with a context that does not contain a Scaffold.` and solved this issue from this [Resource](https://flutter.dev/docs/release/breaking-changes/scaffold-messenger)
+- Finally, I've done what I wanted to do. 😊
