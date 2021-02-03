@@ -26,7 +26,11 @@ class _HomeState extends State<Home> {
   var _textStyle = TextStyle(
     fontSize: 20,
     color: Color.fromRGBO(
-        Random().nextInt(256), Random().nextInt(256), Random().nextInt(256), 1),
+      Random().nextInt(256),
+      Random().nextInt(256),
+      Random().nextInt(256),
+      1,
+    ),
   );
 
   @override
@@ -56,8 +60,12 @@ class _HomeState extends State<Home> {
           setState(() {
             _textStyle = TextStyle(
               fontSize: getRandomFromRange(18, 36),
-              color: Color.fromRGBO(Random().nextInt(255),
-                  Random().nextInt(255), Random().nextInt(255), 1),
+              color: Color.fromRGBO(
+                Random().nextInt(255),
+                Random().nextInt(255),
+                Random().nextInt(255),
+                1,
+              ),
             );
             _mainText = People
                 .contributors[Random().nextInt(People.contributors.length)];
