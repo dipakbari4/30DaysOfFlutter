@@ -1,5 +1,5 @@
 class People {
-  static final contrubutors = [
+  static final contributors = [
     "Abhishek Doshi",
     "Adam Barth",
     "Alois Deniel",
@@ -19,6 +19,7 @@ class People {
     "Katarina Sheremet",
     "Kate Lovett",
     "Lara Martin",
+    "Mahtab",
     "Majid Hajian",
     "Manual Labarca",
     "Marcin Szalek",
@@ -34,6 +35,7 @@ class People {
     "Pascal Welsch",
     "Pawan Kumar",
     "Pooja Bhaumik",
+    "Pranav S",
     "Renuka Kelkar",
     "Robert Brunhage",
     "Romain Rastel",
@@ -42,6 +44,7 @@ class People {
     "Stefan Deconinck",
     "Sunny",
     "Tadas Petra",
+    "Thomas Burkhart",
     "Yash Adulkar",
     "Yogita Kumar",
     "creativecreatorormaybenot"

@@ -60,7 +60,7 @@ class _HomeState extends State<Home> {
                   Random().nextInt(255), Random().nextInt(255), 1),
             );
             _mainText = People
-                .contrubutors[Random().nextInt(People.contrubutors.length)];
+                .contributors[Random().nextInt(People.contributors.length)];
           });
         },
         child: const Icon(
