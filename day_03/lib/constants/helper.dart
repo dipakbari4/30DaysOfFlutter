@@ -1,5 +1,5 @@
 class People {
-  static final contributors = [
+  static final members = [
     "Abhishek Doshi",
     "Adam Barth",
     "Alois Deniel",
