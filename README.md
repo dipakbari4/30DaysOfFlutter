@@ -11,7 +11,7 @@
 
 ---
 
-## Day 1 of #30DaysOfCode
+## Day 1 of #30DaysOfFlutter
 
 ---
 
@@ -23,7 +23,7 @@
 
 ---
 
-## Day 2 of #30DaysOfCode
+## Day 2 of #30DaysOfFlutter
 
 ---
 
@@ -38,3 +38,20 @@
 - I used the `Snackbar` widget too when the counter gets `value to 0`. Faced some difficulties because I was using it without `Scaffold` as its ancestor.
 - I got this error while code `Scaffold.of() called with a context that does not contain a Scaffold.` and solved this issue from this [Resource](https://flutter.dev/docs/release/breaking-changes/scaffold-messenger)
 - Finally, I've done what I wanted to do. 😊
+
+---
+
+## Day 3 of #30DaysOfFlutter
+
+---
+
+### Things I've done today
+
+- Learned the way of switching `Layout`s from `appBar` using `IconButton`
+- Today I used the `day_01` assets item to implement the dataSet `Flutter Family`
+- I played with `ListView` and `GridView` and It was so fun to do this kinda stuff in Flutter. As Hot 🔥 reloads saves my lots of time.
+- I also take [CodeLabs](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2?hl=en#0) reference and used some code from there.
+- I added `GridView` also to switch the view from `AppBar` action. Passed the `gridViewItem` custom.
+- Added the functionality on `FloatingActionButton` to make it interactive and userful [Just Kidding 😁]. I know the validation aren't implemented in `TextFormField`. But It's perfect for me. 😊
+- Using `AlertDialog` we can add new members too **Temporary only, there's no DB**.
+- So far feeling good and happy to be able to develop whatever I wanted to do. It just really easy to learn, understand, and implmentand and I'm looking forward to learn more stuffs concisely and I'll try to add some documentation also. 😊
