@@ -55,3 +55,14 @@
 - Added the functionality on `FloatingActionButton` to make it interactive and userful [Just Kidding 😁]. I know the validation aren't implemented in `TextFormField`. But It's perfect for me. 😊
 - Using `AlertDialog` we can add new members too **Temporary only, there's no DB**.
 - So far feeling good and happy to be able to develop whatever I wanted to do. It just really easy to learn, understand, and implmentand and I'm looking forward to learn more stuffs concisely and I'll try to add some documentation also. 😊
+
+
+---
+
+## Day 4 of #30DaysOfFlutter
+
+---
+
+### Things I've done today
+- Made the item list using `List<String>.generate()` function and populated in `ListView` Widget.
+- Wrapped the `ListView` widget with `Dismissible` widget to implement the remove item functionality.
