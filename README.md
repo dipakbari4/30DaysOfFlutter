@@ -66,3 +66,15 @@
 ### Things I've done today
 - Made the item list using `List<String>.generate()` function and populated in `ListView` Widget.
 - Wrapped the `ListView` widget with `Dismissible` widget to implement the remove item functionality.
+
+
+---
+
+## Day 5 of #30DaysOfFlutter
+
+---
+
+### Things I've done today
+- **Flutter** is awesome to have a great look of User Interface Design and it allows us to directly implement the material design concept and their components.
+- Today I planned to design a layout, based on [this](https://flutter.dev/docs/development/ui/layout/tutorial) tutorial I designed a layout using `Rows`, `Columns`, and `Container` widgets etc.
+- I also added mostly used widgets like `Image`, `Text`, and `Icon`
