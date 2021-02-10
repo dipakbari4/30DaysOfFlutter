@@ -78,3 +78,15 @@
 - **Flutter** is awesome to have a great look of User Interface Design and it allows us to directly implement the material design concept and their components.
 - Today I planned to design a layout, based on [this](https://flutter.dev/docs/development/ui/layout/tutorial) tutorial I designed a layout using `Rows`, `Columns`, and `Container` widgets etc.
 - I also added mostly used widgets like `Image`, `Text`, and `Icon`
+
+
+---
+
+## Day 6 of #30DaysOfFlutter
+
+---
+
+### Things I've done today
+- Today I worked specifically on String and It’s manipulation with the help of some commonly widgets like `TextFormField`, `Text`, `ElevatedButton` and Parent Widget Layouts like `Rows & Columns` and `Container`.
+- The function is to swapping the first character of given string vice-versa using splitted string from it.
+- Tried to replace the String's character according to their index value but couldn't make it in this approach then I done with `substring` function and made a separate function for it.
