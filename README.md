@@ -90,3 +90,18 @@
 - Today I worked specifically on String and It’s manipulation with the help of some commonly widgets like `TextFormField`, `Text`, `ElevatedButton` and Parent Widget Layouts like `Rows & Columns` and `Container`.
 - The function is to swapping the first character of given string vice-versa using splitted string from it.
 - Tried to replace the String's character according to their index value but couldn't make it in this approach then I done with `substring` function and made a separate function for it.
+
+
+---
+
+## Day 7 of #30DaysOfFlutter
+
+---
+
+### Things I've done today
+- So far, I've done with `ListView`, `Image`, `Container`, `FloatingActionButton` widget and so on. Today is Sunday and I've planned to do revise the previous lessons and do some fun for refreshment.
+- I went through the previous projects and decided to make a **Color Generator** app where `Color` will generate based on `Random` values.
+- I implemented a `ListView` using `builder` method to add `ListTile` and the color information and sample gonna inside the `ListTile` as it's property / value.
+- Used the `SizedBox` widget for getting box shaped stuff of `ListTile` leading and used `ListTile`'s `title` and `subtitle` as `Text`.
+- When user will click on `FloatingActionButton` then the whole colors will change randomly.
+
