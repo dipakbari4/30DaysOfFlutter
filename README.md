@@ -105,3 +105,15 @@
 - Used the `SizedBox` widget for getting box shaped stuff of `ListTile` leading and used `ListTile`'s `title` and `subtitle` as `Text`.
 - When user will click on `FloatingActionButton` then the whole colors will change randomly.
 
+
+
+---
+
+## Day 8 of #30DaysOfFlutter
+
+---
+
+### Things I've done today
+- Well, this is the first project of #Week2 and I thought It'd be better to start with using `Navigation` and started with it.
+- This time I made six different apps based on`Navigation` / `Navigator` with different approaches.
+- Coming from the Native Android Development I think almost everything which `Intent` class in `Java/Kotlin` can in **Flutter** it can be done by using `Navigation`.
